@@ -1,45 +1,8 @@
-.mtk6 {
-
-  color: #124c73
-}
-
-.mtk3 {
-  color: #9a9b99;
-}
-
-.mtk4 {
-  color: #0c3f52;
-}
-
 .mtk5 {
 
   color: #67d2ff;
   text-shadow: 0 0 15px #12baff;
 }
-
-
- .mtk9{
-   color: white;
- }
-
-
-.mtk12 {
-  color: #fdfdf6e3
-}
-
-.mtk13 {
-  /* color: #67d2ff;
-   text-shadow: 0 0 15px #12baff, 0 0 2px black; */
-  color: #083650;
-}
-
-
-.mtk8,
-.mtk14 {
-  color: #f4eee4;
-  text-shadow: 0 0 2px #393a33, 0 0 8px #f5b84775, 0 0 2px #f8b84275;
-}
-
 
 .monaco-editor .margin,
 .monaco-editor .inputarea.ime-input {
@@ -56,20 +19,23 @@
   background: none !important;
 }
 
+/* background_colors */
 /* .monaco-editor .overflow-guard {
   background-image: linear-gradient(to bottom, #3a3c3d 50%,#000428);
   background-size: auto 100vh;
   background-position: top;
   background-repeat: no-repeat;
 }
- */
+*/
 
+ 
 /* Active tab Gradient Border  */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active {
   box-shadow: inset 0 -5px 25px #72d5f925;
   position: relative;
 }
 
+/*Ficheiro selecionado la em cima*/
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active::after {
   content: '';
   position: absolute;
