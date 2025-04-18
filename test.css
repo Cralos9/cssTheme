@@ -57,7 +57,7 @@
 }
 
 .monaco-editor .overflow-guard {
-  background-image: linear-gradient(to bottom, #200122 50%,#000428);
+  background-image: linear-gradient(to bottom, #3a3c3d 50%,#000428);
   background-size: auto 100vh;
   background-position: top;
   background-repeat: no-repeat;
