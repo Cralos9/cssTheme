@@ -1,9 +1,7 @@
 .mtk5 {
-
-  color: #0b8a8f;
-  text-shadow: 0 0 15px #058986;
+  color: #67d2ff;
+  text-shadow: 0 0 15px #12baff;
 }
-
 .monaco-editor .margin,
 .monaco-editor .inputarea.ime-input {
   background: transparent;
