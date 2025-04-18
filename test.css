@@ -1,6 +1,5 @@
 .mtk6 {
-  /* color: #f92aad;
-   text-shadow: 0 0 2px #100c0f, 0 0 5px #dc078e33, 0 0 10px #fff3; */
+
   color: #ce6700
 }
 
@@ -13,17 +12,11 @@
 }
 
 .mtk5 {
-  /* color: #fdfdfd; */
-  /* text-shadow: 0 0 2px #001716, 0 0 3px #03edf975, 0 0 5px #03edf975, 0 0 8px #03edf975; */
-  /* text-shadow: 0 0 2px #eaf903cf, 0 0 4px #03edf975, 0 0 6px #03edf975; */
+
   color: #67d2ff;
   text-shadow: 0 0 15px #12baff;
 }
 
-/* .mtk7,.mtk9 {
-   color: #fff5f6;
-   text-shadow: 0 0 2px #000, 0 0 10px #fc1f2c75, 0 0 5px #fc1f2c75, 0 0 25px #fc1f2c75;
- } */
 
  .mtk9{
    color: white;
@@ -31,16 +24,11 @@
 
 
 .mtk11 {
-  /* color: #91bbff;
-   text-shadow: 0 0 10px #2f36ff, 0 0 22px #9d91ff, 0 0 2px black; */
+
   color: #c32de9;
 }
 
 .mtk12 {
-  /* color: #67d2ff;
-   text-shadow: 0 0 15px #12baff, 0 0 2px black; */
-  /* color: #fdfdfd;
-   text-shadow: 0 0 2px #eaf903cf, 0 0 4px #03edf975, 0 0 6px #03edf975; */
   color: #fdfdf6e3
 }
 
@@ -124,7 +112,7 @@
 
 /* Activity Bar badge styles */
 .monaco-workbench .activitybar>.content :not(.monaco-menu)>.monaco-action-bar .badge .badge-content {
-  background: linear-gradient(to bottom, #fff951 25%, #fc28a8) !important;
+  background: linear-gradient(to bottom, #47589f 25%, #5aa8c9) !important;
   color: #030038 !important;
 }
 
