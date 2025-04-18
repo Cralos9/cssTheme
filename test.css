@@ -8,7 +8,7 @@
 }
 
 .mtk4 {
-  color: #f97e72;
+  color: #0c3f52;
 }
 
 .mtk5 {
@@ -37,7 +37,7 @@
 .mtk8,
 .mtk14 {
   color: #f4eee4;
-  text-shadow: 0 0 2px #393a33, 0 0 8px #f39f0575, 0 0 2px #f39f0575;
+  text-shadow: 0 0 2px #393a33, 0 0 8px #f5b84775, 0 0 2px #f8b84275;
 }
 
 
@@ -100,14 +100,13 @@
 }
 
 
-/* Activity Bar badge styles */
+
 .monaco-workbench .activitybar>.content :not(.monaco-menu)>.monaco-action-bar .badge .badge-content {
-  background: linear-gradient(to bottom, #47589f 25%, #5aa8c9) !important;
+  background: linear-gradient(to bottom, #1a2b70 25%, #5aa8c9) !important;
   color: #030038 !important;
 }
 
 
-/* Remove existing border for sidebar item */
 .monaco-workbench .activitybar > .content :not(.monaco-menu) > .monaco-action-bar .action-item.checked .active-item-indicator:before{
  border:none ;
 }
