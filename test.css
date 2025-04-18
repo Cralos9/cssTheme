@@ -56,13 +56,13 @@
   background: none !important;
 }
 
-.monaco-editor .overflow-guard {
+/* .monaco-editor .overflow-guard {
   background-image: linear-gradient(to bottom, #3a3c3d 50%,#000428);
   background-size: auto 100vh;
   background-position: top;
   background-repeat: no-repeat;
 }
-
+ */
 
 /* Active tab Gradient Border  */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active {
