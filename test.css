@@ -2,6 +2,13 @@
   color: #67d2ff;
   text-shadow: 0 0 15px #12baff;
 }
+
+.mtk8,
+ .mtk14 {
+   color: #f4eee4;
+   text-shadow: 0 0 2px #393a33, 0 0 8px #f5b84775, 0 0 2px #f8b84275;
+ }
+
 .monaco-editor .margin,
 .monaco-editor .inputarea.ime-input {
   background: transparent;
