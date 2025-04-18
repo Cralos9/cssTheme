@@ -102,7 +102,7 @@
 
 
 .monaco-workbench .activitybar>.content :not(.monaco-menu)>.monaco-action-bar .badge .badge-content {
-  background: linear-gradient(to bottom, #1a2b70 25%, #5aa8c9) !important;
+  background: linear-gradient(to bottom, #0c5257 25%, #24f6e1) !important;
   color: #030038 !important;
 }
 
@@ -114,7 +114,7 @@
 
 /* Active sidebar item  */
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked {
-  box-shadow: inset 0 -5px 25px #6d81e825;
+  box-shadow: inset 0 -5px 25px #8ea0ff25;
   position: relative;
 }
 
