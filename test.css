@@ -1,0 +1,9 @@
+.mtk5 {
+  font-family: "Fira Code", monospace;
+  font-weight: bold;
+  color: #7392ab;
+  text-shadow:
+    0 0 1px #7392ab,
+    0 0 2px #7392ab,
+    0 0 4px #7392ab;
+}
