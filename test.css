@@ -75,7 +75,7 @@
 
 /* Active tab Gradient Border  */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active {
-  box-shadow: inset 0 -5px 25px #fc28a825;
+  box-shadow: inset 0 -5px 25px #72d5f925;
   position: relative;
 }
 
@@ -86,7 +86,7 @@
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(to right, #fc28a8, #f3f700) !important;
+  background: linear-gradient(to right, #3595cc, #7ac3ee) !important;
   opacity: 1;
   z-index: 6;
 }
@@ -125,7 +125,7 @@
 
 /* Active sidebar item  */
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked {
-  box-shadow: inset 0 -5px 25px #fc28a825;
+  box-shadow: inset 0 -5px 25px #6d81e825;
   position: relative;
 }
 
