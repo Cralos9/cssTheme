@@ -2,8 +2,4 @@
   font-weight: bold;
   color: #7392ab;
   font-family: 'Comic Mono', monospace; /* Make sure you're using Comic Mono */
-  text-shadow:
-    0 0 4px #7392ab,
-    0 0 8px #7392ab,
-    0 0 12px #f35a8c;
 }
