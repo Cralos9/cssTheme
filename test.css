@@ -116,3 +116,18 @@
  width: 4px;
  z-index: 2;
 }
+
+.tab:hover {
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0 0 4px rgba(0, 200, 255, 0.3);
+}
+
+.monaco-action-bar .action-label:hover {
+  transform: scale(1.05);
+  transition: all 0.1s ease-in-out;
+}
+
+.minimap {
+  opacity: 0.4;
+  filter: blur(0.5px) brightness(1.1);
+}
