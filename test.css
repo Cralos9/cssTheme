@@ -10,10 +10,6 @@
    text-shadow: 0 0 2px #393a33, 0 0 8px #f5b84775, 0 0 2px #f8b84275;
  }
 
-.monaco-editor .current-line {
-  background: rgba(255, 255, 255, 0.05);
-  box-shadow: 0 0 4px 2px rgba(0, 200, 255, 0.1) inset;
-}
 .monaco-editor .margin,
 .monaco-editor .inputarea.ime-input {
   background: transparent;
